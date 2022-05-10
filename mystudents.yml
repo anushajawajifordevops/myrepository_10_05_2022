@@ -1,0 +1,22 @@
+---
+- mystudents:
+  - name: anil
+    ph no: 7897897897
+    address:
+      - door no: 7
+      - street no: 22/7
+      - pincode: 567890
+
+  - name: balu
+    ph no: 8978978978
+    address:
+     - door no: 8
+     - street no: 22/7
+     - pincode: 567890
+
+  - name: sunil
+    ph no: 9789789789
+    address: 
+     - door no: 9
+     - street no: 22/7
+     - pincode: 567890 
