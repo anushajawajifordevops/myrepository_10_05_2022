@@ -9,12 +9,17 @@
 172.31.19.10
 172.31.21.16
 
-[mydbservers]
-172.31.19.10
-172.31.21.16
+[myDBservers]
+172.31.19.15
+172.31.21.17
 
 [myubuntuservers]
 172.31.19.103
 
 [myRedHatservers]
 172.31.21.167
+
+[mywebservers:vars]
+myvar= value
+mywebserversonubuntu: ngenix2222
+mywebserversonredhat: httpd
