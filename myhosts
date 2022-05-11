@@ -8,3 +8,13 @@
 [myapplicationservers]
 172.31.19.10
 172.31.21.16
+
+[mydbservers]
+172.31.19.10
+172.31.21.16
+
+[myubuntuservers]
+172.31.19.103
+
+[myRedHatservers]
+172.31.21.167
