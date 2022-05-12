@@ -29,7 +29,7 @@
       path: /home/ubuntu/myfolder
       state: directory
       
-  handlers:
+  handlers: 
   - name: restartwebserver
     service:
        name: apache2
