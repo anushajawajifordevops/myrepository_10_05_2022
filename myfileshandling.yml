@@ -33,4 +33,4 @@
   - name: restartwebserver
     service:
        name: apache2
-       state: restart
+       state: restarted
