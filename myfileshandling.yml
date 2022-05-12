@@ -28,3 +28,9 @@
     file:
       path: /home/ubuntu/myfolder
       state: directory
+      
+  handlers:
+  - name: restartwebserver
+    serice:
+      name: apache2
+      state: restarted
