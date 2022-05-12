@@ -1,0 +1,5 @@
+---
+- name: i want to create afile
+  file:
+    path: /home/ubuntu/mytstfiles
+    state: touch
